@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Obscure",
+        "operator": "whh8b_at_obs.cr",
+        "latitude": "33.7485",
+        "longitude": "-84.3871",
+        "metadata": {
+            "linkspeed": {
+                "in": 40000,
+                "out": 1000
+            }
+        },
+        "config": {
+            "version": 1,
+            "urls": {
+                "small_download_url": "https://rpm.obs.cr:4043/small",
+                "large_download_url": "https://rpm.obs.cr:4043/large",
+                "upload_url": "https://rpm.obs.cr:4043/slurp",
+                "small_https_download_url": "https://rpm.obs.cr:4043/small",
+                "large_https_download_url": "https://rpm.obs.cr:4043/large",
+                "https_upload_url": "https://rpm.obs.cr:4043/slurp"
+            }
+        }
+    }
+]
