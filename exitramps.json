@@ -6,7 +6,7 @@
         "longitude": "-84.3871",
         "metadata": {
             "linkspeed": {
-                "in": 400,
+                "in": "testing",
                 "out": 1000
             }
         },
