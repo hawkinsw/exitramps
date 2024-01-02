@@ -1,5 +1,9 @@
 name: schema-verify
 on: pull_request
+on: 
+  push:
+    branches:
+      - 'main'
 jobs:
   schema-verify-job:
     runs-on: ubuntu-latest
